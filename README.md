@@ -13,4 +13,4 @@ Static single-page site — no build step. To preview locally, open
 python -m http.server 8642
 ```
 
-Contact: prateekspawar@gmail.com
+Contact: support@dronest.in
